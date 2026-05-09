@@ -23,7 +23,18 @@
 
 ## iOS App
 
-* [iOS App overview](ios-app/README.md)
+* [Overview](ios-app/README.md)
+* [Getting Started](ios-app/getting-started.md)
+* [Sign In](ios-app/sign-in.md)
+* [Create or Edit Your Profile](ios-app/create-edit-profile.md)
+* [Manage Your Lollipop Link](ios-app/manage-lollipop-link.md)
+* [Claim Products and Rewards](ios-app/claim-products-rewards.md)
+* [Rewards and Points](ios-app/rewards-points.md)
+* [Your Collection](ios-app/collection.md)
+* [Cards and Tags](ios-app/cards-and-tags.md)
+* [Account Settings](ios-app/account-settings.md)
+* [Troubleshooting](ios-app/troubleshooting.md)
+* [Security and Privacy](ios-app/security-privacy.md)
 
 ## Android App
 

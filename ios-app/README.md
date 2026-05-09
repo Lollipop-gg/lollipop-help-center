@@ -1,15 +1,24 @@
-# iOS App
+# Lollipop iOS App
 
-This section will explain how to use the Lollipop iOS app.
+The Lollipop iOS app helps you use your Lollipop account on iPhone. You can create or recover your account, unlock the app, manage your profile and Lollipop Link, claim eligible products and rewards, view your collection, and check account details on this device.
 
-Planned topics:
+## Start here
 
-- Sign in
-- Create or edit your profile
-- Manage your Lollipop Link
-- Claim rewards
-- View your collection
-- Manage cards and products
-- Troubleshoot common iOS issues
+- [Getting Started](getting-started.md)
+- [Sign In](sign-in.md)
+- [Create or Edit Your Profile](create-edit-profile.md)
+- [Manage Your Lollipop Link](manage-lollipop-link.md)
+- [Claim Products and Rewards](claim-products-rewards.md)
+- [Your Collection](collection.md)
+- [Troubleshooting](troubleshooting.md)
+- [Security and Privacy](security-privacy.md)
 
-[Screenshot needed: iOS app home screen]
+## Documentation status
+
+This section is being expanded as more iOS app features are documented.
+
+- The main account, profile, claim, rewards, collection, and settings flows are documented below.
+- The [Cards and Tags](cards-and-tags.md) page is still a placeholder while that part of the app is reviewed further.
+- Screenshot placeholders are intentionally visible until final iPhone screenshots are added.
+
+[Screenshot needed: iOS app welcome screen or signed-in home screen]
