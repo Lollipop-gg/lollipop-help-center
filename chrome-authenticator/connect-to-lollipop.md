@@ -6,13 +6,13 @@ Open a Lollipop page, then open the Authenticator and click **Connect**.
 
 ## Disconnected state
 
-![Home screen disconnected](../assets/chrome-authenticator/home-disconnected.png)
+![Home screen disconnected](../.gitbook/assets/home-disconnected.png)
 
 The disconnected home screen shows the Connect button when the site is not connected yet.
 
 ## Connected state
 
-![Home screen connected](../assets/chrome-authenticator/home-connected.png)
+![Home screen connected](../.gitbook/assets/home-connected.png)
 
 The connected home screen confirms the Authenticator is connected to the current Lollipop page.
 
@@ -20,6 +20,6 @@ The connected home screen confirms the Authenticator is connected to the current
 
 If you open the Authenticator somewhere else, it may tell you to open your Lollipop dashboard first.
 
-![Dashboard required screen](../assets/chrome-authenticator/dashboard-required.png)
+![Dashboard required screen](../.gitbook/assets/dashboard-required.png)
 
 This screen appears when the Authenticator needs a Lollipop page to continue.

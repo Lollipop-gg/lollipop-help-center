@@ -20,6 +20,6 @@ If you forget the password, you must restore the account with the recovery phras
 
 Only approve requests you expected and understand. Reject anything unexpected.
 
-![Login request screen](../assets/chrome-authenticator/login-request.png)
+![Login request screen](../.gitbook/assets/login-request.png)
 
 The request screen gives you a final chance to approve or reject the action.

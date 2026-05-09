@@ -6,7 +6,7 @@ Read the request carefully before approving. If you do not recognize the request
 
 ## Approval request
 
-![Login request screen](../assets/chrome-authenticator/login-request.png)
+![Login request screen](../.gitbook/assets/login-request.png)
 
 The request screen shows the action being requested and gives you the choice to approve or reject it.
 
@@ -14,7 +14,7 @@ The request screen shows the action being requested and gives you the choice to 
 
 Sometimes the Lollipop page will show a pending approval state while the Authenticator request is open.
 
-![Pending approval screen](../assets/chrome-authenticator/pending-approval.png)
+![Pending approval screen](../.gitbook/assets/pending-approval.png)
 
 The pending screen waits for you to approve the request from the Authenticator window.
 

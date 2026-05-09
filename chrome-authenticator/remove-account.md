@@ -4,7 +4,7 @@ The **Remove Account** action removes the saved Authenticator account from this 
 
 It does not destroy the account itself.
 
-![Home screen disconnected](../assets/chrome-authenticator/home-disconnected.png)
+![Home screen disconnected](../.gitbook/assets/home-disconnected.png)
 
 The Remove Account action appears on the Authenticator home screen.
 

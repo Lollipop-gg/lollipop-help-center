@@ -10,7 +10,7 @@ If you lost both your password and your secret recovery phrase, the account cann
 
 The Authenticator only connects through Lollipop pages. Open your Lollipop dashboard or another Lollipop page, then try again.
 
-![Dashboard required screen](../assets/chrome-authenticator/dashboard-required.png)
+![Dashboard required screen](../.gitbook/assets/dashboard-required.png)
 
 This screen appears when the Authenticator needs a Lollipop page to continue.
 
@@ -28,7 +28,7 @@ The request may have expired, been rejected, or been replaced by a newer request
 
 Open the Authenticator while on a Lollipop page and click **Connect**.
 
-![Home screen disconnected](../assets/chrome-authenticator/home-disconnected.png)
+![Home screen disconnected](../.gitbook/assets/home-disconnected.png)
 
 The disconnected state shows the Connect button.
 
