@@ -6,7 +6,7 @@ Use this flow if you are setting up Lollipop Authenticator for the first time.
 
 Click **Create a new account**.
 
-![Welcome screen](../assets/chrome-authenticator/welcome.png)
+![Welcome screen](../.gitbook/assets/welcome.png)
 
 The welcome screen is where new users begin account setup.
 
@@ -14,7 +14,7 @@ The welcome screen is where new users begin account setup.
 
 Enter a password, confirm it, agree to the Terms of Service, then click **Continue**.
 
-![Create password screen](../assets/chrome-authenticator/create-password.png)
+![Create password screen](../.gitbook/assets/create-password.png)
 
 This password unlocks your account on this browser and device.
 
@@ -24,7 +24,7 @@ Your password is local to this browser. There is no password recovery flow. If y
 
 After the account is created, the Authenticator will show your secret recovery phrase backup step.
 
-![Account created screen](../assets/chrome-authenticator/account-created-recovery-phrase.png)
+![Account created screen](../.gitbook/assets/account-created-recovery-phrase.png)
 
 This screen explains that your recovery phrase is the only way to restore your account later.
 

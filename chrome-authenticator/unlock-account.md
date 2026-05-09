@@ -4,7 +4,7 @@ The Authenticator may ask you to unlock before connecting, approving a request, 
 
 Enter your local password, then click **Unlock**.
 
-![Unlock account screen](../assets/chrome-authenticator/unlock-account.png)
+![Unlock account screen](../.gitbook/assets/unlock-account.png)
 
 The unlock screen protects your saved account on this browser.
 
