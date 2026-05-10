@@ -18,33 +18,24 @@ The Lollipop iOS app does not use a typical email-and-password sign-in screen. I
 3. Enter your recovery phrase.
 4. Tap **Continue**.
 
-[Screenshot needed: Recover Account screen with the recovery phrase entry box]
-
-## If your account is already on this device
-
-1. Open the app.
-2. When you see **Unlock your authenticator**, enter your passcode.
-3. Tap **Unlock**.
-4. If biometric unlock appears, you can use that instead.
-
-[Screenshot needed: Unlock your authenticator screen with Passcode and Unlock]
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-09 at 4.09.38 PM (1).png" alt="" width="188"><figcaption></figcaption></figure>
 
 ## Why the app may ask you to approve something
 
 Some actions require extra confirmation from your account. For example, you may see:
 
-- **Log In to Claim**
-- **Create Account to Claim**
-- **Approve Claim**
-- **Approve Profile Update**
+* **Log In to Claim**
+* **Create Account to Claim**
+* **Approve Claim**
+* **Approve Profile Update**
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-08 at 8.05.54 PM.png" alt="" width="180"><figcaption></figcaption></figure>
 
 This is the app confirming that the action is really coming from a device you control.
 
-> Important:
-> Only approve actions you recognize.
+> Important: Only approve actions you recognize.
 
-> Tip:
-> You do not need to understand the technical signing process to use the app. Just read the action title carefully and only continue when it matches what you were trying to do.
+> Tip: You do not need to understand the technical signing process to use the app. Just read the action title carefully and only continue when it matches what you were trying to do.
 
 ## If sign-in does not work
 
@@ -56,6 +47,6 @@ This is the app confirming that the action is really coming from a device you co
 
 ## Common messages
 
-- **Incorrect passcode.** The passcode entered on **Unlock your authenticator** did not match this device.
-- **Enter your recovery phrase to continue.** The recovery phrase field is empty.
-- **Log In to Claim** or **Create Account to Claim**. The item can only be claimed after you sign in or create an account.
+* **Incorrect passcode.** The passcode entered on **Unlock your authenticator** did not match this device.
+* **Enter your recovery phrase to continue.** The recovery phrase field is empty.
+* **Log In to Claim** or **Create Account to Claim**. The item can only be claimed after you sign in or create an account.

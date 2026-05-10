@@ -4,13 +4,12 @@ The Lollipop iOS app is where you use your Lollipop account on iPhone. It can he
 
 ## Before you start
 
-- An iPhone with the Lollipop app installed
-- An internet connection
-- Your Lollipop account, or enough time to create or recover one
-- A Lollipop-enabled product, card, or tag if you want to claim something
+* An iPhone with the Lollipop app installed
+* An internet connection
+* Your Lollipop account, or enough time to create or recover one
+* A Lollipop-enabled product, card, or tag if you want to claim something
 
-> Tip:
-> Some actions only work after you sign in or unlock your account.
+> Tip: Some actions only work after you sign in or unlock your account.
 
 ## Open the app
 
@@ -19,7 +18,7 @@ The Lollipop iOS app is where you use your Lollipop account on iPhone. It can he
 3. If you already have an account on this device, the app may open straight to **Unlock your authenticator** or your home screen.
 4. If this is your first time, the welcome screen shows **Create a new account** and **I already have an account**.
 
-[Screenshot needed: iOS welcome screen with Create a new account and I already have an account]
+\[Screenshot needed: iOS welcome screen with Create a new account and I already have an account]
 
 ## What new users should do first
 
@@ -30,10 +29,11 @@ The Lollipop iOS app is where you use your Lollipop account on iPhone. It can he
 5. Wait for the home screen to load.
 6. Tap the profile button in the top-right corner when you are ready to check your profile and Lollipop Link.
 
-> Warning:
-> Your secret recovery phrase is the only way to restore your account later. Do not skip saving it.
+> Warning: Your secret recovery phrase is the only way to restore your account later. Do not skip saving it.
 
-[Screenshot needed: Account Created screen with the hidden recovery phrase and Continue button]
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-09 at 4.08.22 PM.png" alt="" width="188"><figcaption></figcaption></figure>
+
+
 
 ## What existing users should do first
 
@@ -42,14 +42,14 @@ The Lollipop iOS app is where you use your Lollipop account on iPhone. It can he
 3. If your account is already stored on this device, enter your passcode on **Unlock your authenticator** instead.
 4. After the app opens, review your profile, points, and collection.
 
-[Screenshot needed: Unlock your authenticator screen or Recover Account screen]
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-09 at 4.09.38 PM.png" alt="" width="188"><figcaption></figcaption></figure>
 
 ## What you will see on the home screen
 
 The signed-in home screen centers around your Lollipop points card and your collected brand or product cards.
 
-- The points card shows your current point balance.
-- Brand and product cards show items in your collection.
-- The profile button in the top-right corner opens **Profile**.
+* The points card shows your current point balance.
+* Brand and product cards show items in your collection.
+* The profile button in the top-right corner opens **Profile**.
 
-[Screenshot needed: signed-in iOS home screen with points card, collection cards, and profile button]
+\[Screenshot needed: signed-in iOS home screen with points card, collection cards, and profile button]

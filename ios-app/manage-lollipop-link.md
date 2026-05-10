@@ -11,7 +11,9 @@ Your **Lollipop Link** is your public Lollipop page, such as `https://lollipop.g
 
 If you only have one link, the app shows it as a copyable row. If you have more than one, the app can show a link picker while you are editing.
 
-[Screenshot needed: Profile screen showing the Link row or Link picker]
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-09 at 4.14.31 PM.png" alt="" width="375"><figcaption></figcaption></figure>
+
+
 
 ## Change which Lollipop Link is active
 
@@ -31,12 +33,11 @@ If you only have one link, the app shows it as a copyable row. If you have more 
 
 After your update finishes:
 
-- Your selected Lollipop Link stays connected to your profile.
-- Your public page uses the latest published profile details.
-- If you only changed the selected link, the app may update it without a full profile publish.
+* Your selected Lollipop Link stays connected to your profile.
+* Your public page uses the latest published profile details.
+* If you only changed the selected link, the app may update it without a full profile publish.
 
-> Tip:
-> If the app still shows the older public page, wait a moment and then reopen the preview.
+> Tip: If the app still shows the older public page, wait a moment and then reopen the preview.
 
 ## If your link does not look right
 

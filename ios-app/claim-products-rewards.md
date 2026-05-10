@@ -10,7 +10,9 @@ When you tap a Lollipop-enabled product, card, or tag, the iPhone app can open a
 4. If the item includes points, the preview may show the points amount.
 5. If you are not signed in, the app shows **Log In to Claim** or **Create Account to Claim**.
 
-[Screenshot needed: claim preview drawer with the item image, item title, and claim button]
+
+
+<figure><img src="../.gitbook/assets/IMG_2148.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
 ## Claim an item or reward
 
@@ -21,29 +23,32 @@ When you tap a Lollipop-enabled product, card, or tag, the iPhone app can open a
 5. Wait for the success screen.
 6. Tap **View Item** to open the item in your collection.
 
-> Important:
-> Only approve a claim you expected. If the request looks unfamiliar, stop and do not approve it.
+> Important: Only approve a claim you expected. If the request looks unfamiliar, stop and do not approve it.
 
-[Screenshot needed: claim approval or loading state that leads into Approve Claim]
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-09 at 6.21.55 PM.png" alt="" width="272"><figcaption></figcaption></figure>
+
+\[Screenshot needed: claim approval or loading state that leads into Approve Claim]
 
 ## If the claim succeeds
 
 After a successful claim:
 
-- The item is added to your collection.
-- Any awarded points can be added to your account.
-- **View Item** opens the claimed item from the home collection view.
+* The item is added to your collection.
+* Any awarded points can be added to your account.
+* **View Item** opens the claimed item from the home collection view.
 
-[Screenshot needed: claim success screen with View Item]
+
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-09 at 6.20.40 PM.png" alt="" width="270"><figcaption></figcaption></figure>
 
 ## If the item was already claimed
 
 The app can show **Already Claimed** with a message that the item has already been added to a Lollipop account.
 
-- You will not be able to claim the same item again to the same or another account through this flow.
-- Tap **Done** to close the message.
+* You will not be able to claim the same item again to the same or another account through this flow.
+* Tap **Done** to close the message.
 
-[Screenshot needed: Already Claimed state]
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-09 at 6.19.50 PM.png" alt="" width="273"><figcaption></figcaption></figure>
 
 ## If a claim fails
 
@@ -55,9 +60,9 @@ The app can show **Already Claimed** with a message that the item has already be
 
 The app can show messages such as:
 
-- **This claim expired**
-- **We couldn’t load this claim**
-- **Approval failed**
-- **This item has already been added to a Lollipop account.**
+* **This claim expired**
+* **We couldn’t load this claim**
+* **Approval failed**
+* **This item has already been added to a Lollipop account.**
 
-[Screenshot needed: claim error state with Try Again and Dismiss]
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-09 at 6.17.55 PM.png" alt="" width="272"><figcaption></figcaption></figure>

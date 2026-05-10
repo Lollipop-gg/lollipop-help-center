@@ -4,12 +4,11 @@ Rewards and points are account benefits tied to eligible Lollipop products and t
 
 ## What rewards and points are
 
-- Some items award points when you claim them.
-- Some taps only add the item to your collection and do not add points.
-- The exact rules depend on the product you tapped.
+* Some items award points when you claim them.
+* Some taps only add the item to your collection and do not add points.
+* The exact rules depend on the product you tapped.
 
-> Tip:
-> If a claim includes points, the claim preview usually shows the amount before you approve it.
+> Tip: If a claim includes points, the claim preview usually shows the amount before you approve it.
 
 ## How you may earn points
 
@@ -24,17 +23,15 @@ If points are part of that item, they can be added during the same claim flow.
 
 On the home screen, the app shows a **LOLLIPOP POINTS** card.
 
-- The large number is your current point balance.
-- The card also shows **Brands**, **Collected**, and **Activity** totals.
+* The large number is your current point balance.
+* The card also shows **Brands**, **Collected**, and **Activity** totals.
 
 Tap the points card to open the larger points view. If history is available, the expanded card can show **HISTORY** and **RECENT** entries.
 
-[Screenshot needed: home screen points card showing the current balance]
-
-[Screenshot needed: expanded LOLLIPOP POINTS card showing HISTORY and RECENT]
+<figure><img src="../.gitbook/assets/IMG_2338.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 ## What points do not tell you
 
-The current iOS app shows your point balance and recent activity, but this documentation does not list redemption rules because they are not shown clearly in the app code reviewed for this guide.
+The current iOS app shows your point balance and recent activity, but this documentation does not list redemption rules yet.
 
 If Lollipop adds more points details in the app later, this page will be expanded.

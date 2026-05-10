@@ -8,15 +8,17 @@ Most account-related controls in the current iOS app live inside **Profile**.
 2. Tap the profile button in the top-right corner.
 3. Open **Profile**.
 
-[Screenshot needed: Profile screen showing Customize, Session, Log Out, and Preview Profile]
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-09 at 6.29.19 PM.png" alt="" width="188"><figcaption></figcaption></figure>
+
+
 
 ## Change appearance
 
 Inside **Customize**, the app lets you choose:
 
-- **System**
-- **Dark**
-- **Light**
+* **System**
+* **Dark**
+* **Light**
 
 To change it:
 
@@ -24,29 +26,9 @@ To change it:
 2. Find **Customize**.
 3. Use the **Appearance** control.
 
-> Tip:
-> **System** follows your iPhone setting unless you choose a different option.
+> Tip: **System** follows your iPhone setting unless you choose a different option.
 
-## View account and device information
 
-Inside **Session**, the app can show:
-
-- **Account**
-- **Chain**
-- **Session address**
-- **Device ID**
-- **Version**
-- **Environment**
-
-To see it:
-
-1. Open **Profile**.
-2. Tap **Session**.
-3. Expand the section if needed.
-
-Some of these details are informational. You usually do not need them unless you are troubleshooting.
-
-[Screenshot needed: expanded Session section with account and device details]
 
 ## Preview your public profile
 
@@ -61,8 +43,7 @@ Some of these details are informational. You usually do not need them unless you
 3. Tap **Log Out**.
 4. Wait for the app to return to the welcome screen.
 
-> Warning:
-> Make sure you still have your secret recovery phrase before signing out if you may need to recover this account again later.
+> Warning: Make sure you still have your secret recovery phrase before signing out if you may need to recover this account again later.
 
 ## Settings that are not documented yet
 

@@ -8,16 +8,16 @@ Your profile controls how your public Lollipop identity appears in the app and o
 2. Tap the profile button in the top-right corner.
 3. The app opens **Profile**.
 
-[Screenshot needed: Profile screen with the header image, profile photo, and Edit button]
+
 
 ## What you can change
 
 The current app lets you change:
 
-- Your **Display Name**
-- Your profile photo
-- Your header image
-- Your selected **Lollipop Link** when more than one link is available
+* Your **Display Name**
+* Your profile photo
+* Your header image
+* Your selected **Lollipop Link** when more than one link is available
 
 ## Edit your profile
 
@@ -29,10 +29,11 @@ The current app lets you change:
 6. Tap **Publish Changes**.
 7. On **Approve Profile Update**, review the request and tap **Approve Update** if it looks right.
 
-> Tip:
-> The app keeps your unsaved changes on this device if publishing does not finish.
+> Tip: The app keeps your unsaved changes on this device if publishing does not finish.
 
-[Screenshot needed: Profile screen in edit mode showing Display Name, image controls, Link, and Publish Changes]
+
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-09 at 4.13.13 PM.png" alt="" width="188"><figcaption></figcaption></figure>
 
 ## Preview your public profile
 
@@ -40,16 +41,15 @@ The current app lets you change:
 2. Tap **Preview Profile**.
 3. Review the public version of your profile.
 
-> Tip:
-> If you still have unpublished edits, **Preview Profile** shows your last published profile, not your unsaved draft.
+> Tip: If you still have unpublished edits, **Preview Profile** shows your last published profile, not your unsaved draft.
 
 ## What happens after saving
 
 After a successful save, the app may show a confirmation like **Your Lollipop is live**.
 
-- Your published profile updates on your Lollipop Link.
-- Your profile image can update on the home screen profile button.
-- Your selected Lollipop Link stays connected to the profile you published.
+* Your published profile updates on your Lollipop Link.
+* Your profile image can update on the home screen profile button.
+* Your selected Lollipop Link stays connected to the profile you published.
 
 ## If profile changes do not update
 

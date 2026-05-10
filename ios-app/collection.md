@@ -8,7 +8,7 @@ Your collection is where claimed items appear in the iOS app.
 2. Look below the **LOLLIPOP POINTS** card.
 3. Browse the brand and product cards shown there.
 
-[Screenshot needed: signed-in home screen showing the collection cards under LOLLIPOP POINTS]
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-09 at 6.26.18 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## How claimed items appear
 
@@ -18,8 +18,7 @@ After a successful claim:
 2. Tap **View Item** on the success screen.
 3. The app opens the claimed item from your collection when it is ready.
 
-> Tip:
-> If the item does not appear right away, close and reopen the app, then check again.
+> Tip: If the item does not appear right away, close and reopen the app, then check again.
 
 ## Open an item in your collection
 
@@ -31,26 +30,26 @@ After a successful claim:
 
 Depending on the item, the collection view can show:
 
-- Brand name
-- Product name
-- Rarity
-- Product description
-- Product image
-- Brand links
-- Activity details such as taps, visitors, recent activity, or points tied to that item
+* Brand name
+* Product name
+* Rarity
+* Product description
+* Product image
+* Brand links
+* Activity details such as taps, visitors, recent activity, or points tied to that item
 
 ## What the labels mean
 
 Some collection cards can include:
 
-- **PRODUCT**
-- **RARITY**
-- **ACTIVITY**
-- **Taps**
-- **Visitors**
-- **+Points**
+* **PRODUCT**
+* **RARITY**
+* **ACTIVITY**
+* **Taps**
+* **Visitors**
+* **+Points**
 
-[Screenshot needed: expanded collection item showing product details and the ACTIVITY section]
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-09 at 6.27.02 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## If you do not see a claimed item
 
