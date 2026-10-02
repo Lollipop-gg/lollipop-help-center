@@ -1,52 +1,53 @@
 # Account Settings
 
-Most account-related controls in the current iOS app live inside **Profile**.
+Settings is where you change how the app looks, keep your account safe, and sign out.
 
-## Open account settings
+## Open Settings
 
-1. Open the app.
-2. Tap the profile button in the top-right corner.
-3. Open **Profile**.
+Tap the **profile button** in the top-right corner of the home screen.
 
-<figure><img src="../.gitbook/assets/Screenshot 2026-05-09 at 6.29.19 PM.png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../assets/ios-app/settings/profile-button.png" alt="Profile button in the top-right corner of the home screen highlighted" width="300"><figcaption></figcaption></figure>
 
+<figure><img src="../assets/ios-app/settings/settings-top.png" alt="Settings screen with the account card, View Orders, and settings sections highlighted" width="300"><figcaption></figcaption></figure>
 
+1. **Your account**: your name and Lollipop Link. Tap it to edit your profile. [Learn more](create-edit-profile.md)
+2. **View Orders**: see things you've bought in the Shop.
+3. **Settings sections**: tap a section to open it.
 
-## Change appearance
+To go back, tap the **back arrow** in the top-left corner.
 
-Inside **Customize**, the app lets you choose:
+## Customize
 
-* **System**
-* **Dark**
-* **Light**
+Change how Lollipop looks.
 
-To change it:
+1. Tap **Customize**.
+2. Under **Appearance**, pick **System**, **Dark**, or **Light**.
+3. Under **Points Card Theme**, tap a color for your points card.
 
-1. Open **Profile**.
-2. Find **Customize**.
-3. Use the **Appearance** control.
+<figure><img src="../assets/ios-app/settings/customize.png" alt="Customize section with the Appearance switch and Points Card Theme colors highlighted" width="300"><figcaption></figcaption></figure>
 
-> Tip: **System** follows your iPhone setting unless you choose a different option.
+1. **Appearance**: **System** matches your iPhone's setting.
+2. **Points Card Theme**: the check mark shows your current color.
 
+## Security & Privacy
 
+Keep your account safe.
 
-## Preview your public profile
+<figure><img src="../assets/ios-app/settings/security.png" alt="Security and Privacy section with each option highlighted" width="300"><figcaption></figcaption></figure>
 
-1. Open **Profile**.
-2. Tap **Preview Profile**.
-3. Review the public version of your profile in the preview window.
+1. **Claim notifications**: get a notification when someone claims your drop.
+2. **Passcode Lock**: ask for a passcode after you've been away from the app for a while.
+3. **View Recovery Phrase**: see the secret words that restore your account. [Learn more](security-privacy.md)
+4. **Log Out**: sign out of Lollipop on this iPhone.
+5. **Delete Account**: schedule your account to be permanently deleted.
 
-## Sign out of this device
+> Warning: Before you **Log Out** or **Delete Account**, make sure you've saved your recovery phrase. It's the only way to get your account back.
 
-1. Open **Profile**.
-2. Find **Log Out**.
-3. Tap **Log Out**.
-4. Wait for the app to return to the welcome screen.
+## Session
 
-> Warning: Make sure you still have your secret recovery phrase before signing out if you may need to recover this account again later.
+Details about your account and this iPhone. These are useful if you contact support.
 
-## Settings that are not documented yet
+<figure><img src="../assets/ios-app/settings/session.png" alt="Session section with the app version and Send Device Report highlighted" width="300"><figcaption></figcaption></figure>
 
-The current app review did not confirm separate consumer-facing pages for notifications, advanced privacy controls, or direct card/tag settings.
-
-This page will be expanded if those controls appear in the app later.
+1. **Version**: the version of the app you're using.
+2. **Send Device Report**: sends recent app logs to Lollipop support. Use this if support asks for it.

@@ -1,60 +1,44 @@
 # Your Collection
 
-Your collection is where claimed items appear in the iOS app.
+Your collection is the home screen of the app. Everything you claim shows up here as a card.
 
-## Where to find your collection
+## See your cards
 
-1. Open the app and go to the home screen.
-2. Look below the **LOLLIPOP POINTS** card.
-3. Browse the brand and product cards shown there.
+1. Open the app. You start on **Collection**.
+2. Your cards are stacked under the points card.
 
-<figure><img src="../.gitbook/assets/Screenshot 2026-05-09 at 6.26.18 PM.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../assets/ios-app/collection/home-deck.png" alt="Home screen with the stack of collected cards highlighted" width="300"><figcaption></figcaption></figure>
 
-## How claimed items appear
+Each card is one brand. It shows how many items you've collected from them.
 
-After a successful claim:
+> Tip: To get back here from anywhere, tap the **lollipop button** and then **collection**.
 
-1. The app finishes the claim flow.
-2. Tap **View Item** on the success screen.
-3. The app opens the claimed item from your collection when it is ready.
+## Look at a card
 
-> Tip: If the item does not appear right away, close and reopen the app, then check again.
+1. Tap a card in the stack.
+2. The card opens so you can see the details.
 
-## Open an item in your collection
+<figure><img src="../assets/ios-app/collection/inspect-card.png" alt="Lollipop T-shirt card opened, with the product, points, brand activity, and close bar highlighted" width="300"><figcaption></figcaption></figure>
 
-1. Tap a brand or product card on the home screen.
-2. The card expands so you can read more details.
-3. If the brand has more than one product, swipe across the card to move between items.
+1. **Product**: the photo, name, description, and **Rarity** (for example, **1/3** means it's one of three).
+2. **Points**: how many points you've earned from this brand.
+3. **Brand Activity**: how many people visited and tapped this brand. Tap **View Brand** to open their page, or the copy button to copy their link.
+4. **Pull down to close**: drag the card down to put it back in the stack.
 
-## What details you can see
+> Tip: If a brand has more than one item, swipe left or right on the card to see the rest.
 
-Depending on the item, the collection view can show:
+## Starter cards
 
-* Brand name
-* Product name
-* Rarity
-* Product description
-* Product image
-* Brand links
-* Activity details such as taps, visitors, recent activity, or points tied to that item
+New accounts also see a few helper cards in the stack, like **Complete Your Profile** and **Lollipop NFC Cards**. Tap one to open it.
 
-## What the labels mean
+To remove a helper card, open it and press and hold **Hold to Dismiss**.
 
-Some collection cards can include:
+## Refresh your collection
 
-* **PRODUCT**
-* **RARITY**
-* **ACTIVITY**
-* **Taps**
-* **Visitors**
-* **+Points**
+Pull down on the **points card** at the top of the screen. The bar at the bottom says **REFRESHING YOUR STASH** while it updates.
 
-<figure><img src="../.gitbook/assets/Screenshot 2026-05-09 at 6.27.02 PM.png" alt="" width="375"><figcaption></figcaption></figure>
+## If a card is missing
 
-## If you do not see a claimed item
-
-1. Make sure the claim finished successfully.
-2. Tap **View Item** from the success screen when possible.
-3. Check that you are on the correct account.
-4. Reopen the app and look again.
-5. If the claim said the item was already claimed, it will not be added again.
+1. Make sure your claim finished. You'll see a success screen when it does.
+2. Pull down on the points card to refresh.
+3. Make sure you're signed in to the right account. Check the name in **Settings**.

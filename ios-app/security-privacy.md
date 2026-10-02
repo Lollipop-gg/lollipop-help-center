@@ -1,50 +1,50 @@
 # Security and Privacy
 
-## Only approve actions you recognize
+A few simple habits keep your Lollipop account safe.
 
-The app may ask you to approve actions like:
+## Save your recovery phrase
 
-- claiming an item
-- updating your profile
-- continuing an account-related action
+Your **recovery phrase** is a set of secret words. It's the only way to get your account back if you lose your phone or sign out.
 
-> Warning:
-> Never approve an action you do not recognize.
+To see it:
 
-If something looks wrong, stop and close the request instead of continuing.
+1. Tap the **profile button** in the top-right corner of the home screen.
+2. Open **Security & Privacy**.
+3. Tap **View Recovery Phrase**.
+4. Tap to reveal the words.
+5. Write them down and keep them somewhere safe and private.
 
-## Be careful with account access
+<figure><img src="../assets/ios-app/settings/security.png" alt="Security and Privacy section with View Recovery Phrase highlighted as number 3" width="300"><figcaption></figcaption></figure>
 
-Anyone who can unlock your saved account on this device can act as you in the app.
+> Warning: Never share your recovery phrase with anyone. Lollipop will never ask you for it.
 
-To reduce risk:
+Don't:
 
-1. Keep control of the iPhone you use for Lollipop.
-2. Do not share your device passcode.
-3. Sign out from **Profile** if you no longer want the account on that device.
+* Send it in a text, email, or DM.
+* Post a screenshot of it.
+* Type it into a website.
 
-## Protect your secret recovery phrase
+## Turn on Passcode Lock
 
-Your secret recovery phrase can restore your account.
+Passcode Lock asks for a 6-digit passcode when you come back to the app after a while. You can also use Face ID.
 
-1. Save it somewhere private.
-2. Do not send it in messages.
-3. Do not store it somewhere other people can access easily.
+1. Open **Settings** > **Security & Privacy**.
+2. Turn on **Passcode Lock**.
+3. Create your passcode.
 
-> Warning:
-> Lollipop will never ask for your secret recovery phrase in a random message.
+> Tip: Your passcode is only stored on this iPhone. It's different from your recovery phrase.
+
+## Only approve things you started
+
+Sometimes the app asks you to approve an action, like claiming an item or publishing your profile. Read it first. Only approve it if it matches what you just did.
+
+## Sign out of a phone you don't use
+
+1. Open **Settings** > **Security & Privacy**.
+2. Tap **Log Out**.
+
+Make sure your recovery phrase is saved first.
 
 ## Use official Lollipop apps and sites
 
-Only use the official Lollipop iOS app and official Lollipop websites, including `lollipop.gg`, when working with your account or Lollipop Link.
-
-## What the app appears to show and store
-
-Based on the current iOS app behavior reviewed for this Help Center:
-
-- The app can show your account and device details in **Profile** under **Session**.
-- The app can show your public profile details and Lollipop Link.
-- Claimed items can appear in your collection.
-- Reward points can appear on the **LOLLIPOP POINTS** card.
-
-This page stays focused on what the app clearly shows today and will be expanded as more privacy-related settings are documented.
+Only use the Lollipop app from the App Store and websites at **lollipop.gg**.

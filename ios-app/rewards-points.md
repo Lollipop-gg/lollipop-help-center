@@ -1,37 +1,44 @@
-# Rewards and Points
+# Points and Rewards
 
-Rewards and points are account benefits tied to eligible Lollipop products and taps.
+You earn Lollipop points when you claim eligible products. Your points live on the **points card** at the top of your collection.
 
-## What rewards and points are
+## See your points
 
-* Some items award points when you claim them.
-* Some taps only add the item to your collection and do not add points.
-* The exact rules depend on the product you tapped.
+<figure><img src="../assets/ios-app/rewards/points-card.png" alt="Lollipop Points card highlighted on the home screen" width="300"><figcaption></figcaption></figure>
 
-> Tip: If a claim includes points, the claim preview usually shows the amount before you approve it.
+The big number is your point balance. Under it you'll see:
 
-## How you may earn points
+* **Links**: how many Lollipop Links you have.
+* **Tags**: how many tappable tags you own.
+* **Collected**: how many items you've claimed.
 
-1. Tap an eligible Lollipop product, card, or tag.
-2. Open the claim flow.
-3. Complete the claim on the correct account.
-4. Wait for the success screen.
+## Open the points card
 
-If points are part of that item, they can be added during the same claim flow.
+1. Tap the points card.
+2. It opens to show everything you own.
 
-## Where points appear in the app
+<figure><img src="../assets/ios-app/rewards/points-expanded.png" alt="Open points card with the balance, totals, Links, Tappables, and Mixtapes highlighted" width="300"><figcaption></figcaption></figure>
 
-On the home screen, the app shows a **LOLLIPOP POINTS** card.
+1. **Your points**.
+2. **Totals**: Links, Tags, and Collected.
+3. **Links**: tap a link to edit it, or **Add** to make a new one.
+4. **Tappables**: your tags and stickers.
+5. **Mixtapes**: mixtapes you've made.
 
-* The large number is your current point balance.
-* The card also shows **Brands**, **Collected**, and **Activity** totals.
+To close it, drag the card down.
 
-Tap the points card to open the larger points view. If history is available, the expanded card can show **HISTORY** and **RECENT** entries.
+## How to earn points
 
-<figure><img src="../.gitbook/assets/IMG_2338.jpg" alt="" width="375"><figcaption></figcaption></figure>
+1. Tap an eligible Lollipop product with your iPhone.
+2. Claim it. [See how](claim-products-rewards.md)
+3. The points are added to your balance.
 
-## What points do not tell you
+Not every product gives points. If one does, you'll see the amount before you claim it.
 
-The current iOS app shows your point balance and recent activity, but this documentation does not list redemption rules yet.
+> Tip: Each brand card in your collection shows the points you've earned from that brand, like **60 pts**.
 
-If Lollipop adds more points details in the app later, this page will be expanded.
+## If your points look wrong
+
+1. Pull down on the points card to refresh.
+2. Make sure the claim finished. You'll see a success screen when it does.
+3. Remember that not every product gives points.

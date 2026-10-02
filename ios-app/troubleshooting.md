@@ -1,64 +1,69 @@
 # Troubleshooting
 
-## I can’t sign in
+Quick fixes for the most common problems.
 
-1. Make sure you are using the right recovery phrase or the right passcode.
-2. If the app shows **Unlock your authenticator**, use the passcode for the account saved on this device.
-3. If you are restoring an account, make sure the recovery phrase is complete.
-4. Close and reopen the app, then try again.
+## The bar at the bottom turned red
 
-## My claim did not work
+A red bar that says **NO INTERNET** means the app can't connect.
 
-1. Tap **Try Again** if the app offers it.
+<figure><img src="../assets/ios-app/troubleshooting/no-internet.png" alt="Red lollipop bar showing the app is offline" width="300"><figcaption></figcaption></figure>
+
+1. Check that Wi-Fi or cellular data is on.
+2. Pull down on the points card to refresh.
+3. If it stays red, close the app and open it again.
+
+## A screen says "Couldn't load" or won't finish loading
+
+<figure><img src="../assets/ios-app/troubleshooting/shop-error.png" alt="Couldn't load the shop right now message with Try Again highlighted" width="300"><figcaption></figcaption></figure>
+
+1. Tap **Try Again** if you see it.
 2. Check your internet connection.
-3. Make sure you approved the claim on the account you meant to use.
-4. Tap the physical item again if the app says the claim expired.
+3. Close the app and open it again.
 
-## I already claimed this item
-
-If the app shows **Already Claimed**, that item has already been added to a Lollipop account. It cannot be claimed again through the same flow.
-
-## My reward or points are not showing
-
-1. Open the home screen and check the **LOLLIPOP POINTS** card.
-2. Open the claim again only if the app did not finish the first time.
-3. Remember that not every item includes points.
-4. Close and reopen the app if the balance does not refresh right away.
-
-## I tapped a product but nothing happened
-
-1. Unlock your iPhone and try the tap again.
-2. Make sure the product, card, or tag is Lollipop-enabled.
-3. Open the app first, then retry the tap.
-4. Move the iPhone slightly and try again if the first tap did not register.
-
-## The app did not open after tapping
+## I tapped a product and nothing happened
 
 1. Unlock your iPhone first.
-2. Try the tap again.
-3. Open the Lollipop app manually and try again.
-4. If the tap still does not open a claim, the link may be unavailable or the item may not be responding.
+2. Hold the top of your iPhone close to the Lollipop tag for a second or two.
+3. Try again, moving your phone slowly over the tag.
+4. Make sure the product has a Lollipop tag.
 
-## I do not see my collection item
+## My claim didn't work
 
-1. Make sure the claim finished successfully.
-2. Tap **View Item** on the claim success screen when available.
-3. Reopen the app and check the home collection again.
-4. Confirm that you are on the correct account.
+1. If you see **This claim expired**, tap the item again to start a new claim.
+2. If you see **Already Claimed**, someone has already added this item to their Lollipop.
+3. Check your internet connection and try again.
 
-## I changed my profile but it did not update
+See [Claim Products and Rewards](claim-products-rewards.md) for more.
 
-1. Make sure you tapped **Publish Changes**.
-2. Approve **Approve Profile Update** if it appears.
-3. Wait for any image upload to finish.
-4. Use **Preview Profile** to check what is currently live.
+## I don't see something I claimed
 
-> Tip:
-> If something does not update right away, close and reopen the app.
+1. Make sure the claim finished. You'll see a success screen when it does.
+2. Pull down on the points card to refresh.
+3. Make sure you're on the right account. Check the name at the top of **Settings**.
 
-## I’m on the wrong account
+## My points look wrong
 
-1. Open **Profile**.
-2. Tap **Log Out**.
-3. Return to the welcome screen.
-4. Recover the correct account with **I already have an account**, or unlock the correct saved account if it is already on this device.
+1. Pull down on the points card to refresh.
+2. Not every product gives points.
+
+## My profile changes didn't show up
+
+1. Make sure you tapped **Publish Changes** and approved the update.
+2. Check that **Edit Account** says **PUBLISHED**.
+3. Tap **View Profile** to see what's live.
+
+## I'm signed in to the wrong account
+
+1. Save the recovery phrase for this account first. [See how](security-privacy.md)
+2. Open **Settings** > **Security & Privacy**.
+3. Tap **Log Out**.
+4. On the welcome screen, tap **Already Collecting** and enter the recovery phrase for the right account.
+
+## Still stuck?
+
+Send a device report so our team can take a look:
+
+1. Open **Settings** and tap **Session**.
+2. Tap **Send Device Report**.
+
+<figure><img src="../assets/ios-app/settings/session.png" alt="Session section with Send Device Report highlighted" width="300"><figcaption></figcaption></figure>

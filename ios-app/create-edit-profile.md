@@ -1,60 +1,53 @@
-# Create or Edit Your Profile
+# Edit Your Profile
 
-Your profile controls how your public Lollipop identity appears in the app and on your Lollipop Link.
+Your profile is what people see when they open your Lollipop Link: your photo, header image, and name.
 
 ## Open your profile
 
-1. Open the app and go to the home screen.
-2. Tap the profile button in the top-right corner.
-3. The app opens **Profile**.
+1. Tap the **profile button** in the top-right corner of the home screen.
+2. Tap your name at the top of **Settings**.
 
+The **Edit Account** screen opens.
 
+<figure><img src="../assets/ios-app/profile/edit-account.png" alt="Edit Account screen with the header photo, profile photo, display name, and Publish Changes highlighted" width="300"><figcaption></figcaption></figure>
 
-## What you can change
+1. **Header image**: tap the camera to pick a new header.
+2. **Profile photo**: tap the camera to pick a new photo.
+3. **Display name**: tap to change your name.
+4. **Publish Changes**: tap to make your changes live.
 
-The current app lets you change:
+## Change your profile
 
-* Your **Display Name**
-* Your profile photo
-* Your header image
-* Your selected **Lollipop Link** when more than one link is available
+1. Make your changes.
+2. Tap **Publish Changes**.
+3. When the app asks, check the request and tap **Approve Update**.
+4. Wait for the label under the button to say **PUBLISHED**.
 
-## Edit your profile
+> Tip: Your changes aren't live until you publish them. If you leave without publishing, the app asks if you want to keep or discard them.
 
-1. Open **Profile**.
-2. Tap **Edit**.
-3. Update your **Display Name**.
-4. Tap the camera button on the profile photo or header image if you want to replace it.
-5. If a **Link** chooser appears, select the Lollipop Link you want to use.
-6. Tap **Publish Changes**.
-7. On **Approve Profile Update**, review the request and tap **Approve Update** if it looks right.
+## See what everyone else sees
 
-> Tip: The app keeps your unsaved changes on this device if publishing does not finish.
+1. Scroll down on **Edit Account**.
+2. Tap **View Profile**.
 
+<figure><img src="../assets/ios-app/profile/view-profile-button.png" alt="View Profile button highlighted" width="300"><figcaption></figcaption></figure>
 
+Your public page opens.
 
-<figure><img src="../.gitbook/assets/Screenshot 2026-05-09 at 4.13.13 PM.png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../assets/ios-app/profile/public-profile.png" alt="Public Lollipop profile page" width="300"><figcaption></figcaption></figure>
 
-## Preview your public profile
+Tap **X** to close it.
 
-1. Open **Profile**.
-2. Tap **Preview Profile**.
-3. Review the public version of your profile.
+## Add social links and more
 
-> Tip: If you still have unpublished edits, **Preview Profile** shows your last published profile, not your unsaved draft.
+Tap **Edit Full Profile** under **View Profile** to open the full editor. You can add buttons for your social accounts, shop, music, and more. [Learn more](manage-lollipop-link.md)
 
-## What happens after saving
+## Finish your profile
 
-After a successful save, the app may show a confirmation like **Your Lollipop is live**.
+New accounts get a **Complete Your Profile** card in their collection. It shows what's left to do.
 
-* Your published profile updates on your Lollipop Link.
-* Your profile image can update on the home screen profile button.
-* Your selected Lollipop Link stays connected to the profile you published.
+<figure><img src="../assets/ios-app/getting-started/complete-profile.png" alt="Complete Your Profile card with the checklist, Edit Your Profile button, and Hold to Dismiss highlighted" width="300"><figcaption></figcaption></figure>
 
-## If profile changes do not update
-
-1. Make sure you tapped **Publish Changes**, not just **Done**.
-2. Approve **Approve Profile Update** if it appears.
-3. Wait for any upload step to finish.
-4. Use **Preview Profile** to check your last published version.
-5. Close and reopen the app if the home screen still shows an older photo or name.
+1. **Checklist**: crossed-out items are done.
+2. **Edit Your Profile**: opens **Edit Account**.
+3. **Hold to Dismiss**: press and hold to remove the card.
