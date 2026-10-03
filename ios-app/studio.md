@@ -7,37 +7,22 @@ Studio is where you make things people can tap in real life, like your merch, a 
 1. Tap the **lollipop button** at the bottom of the screen.
 2. Tap **studio**.
 
-<figure><img src="../assets/ios-app/studio/studio-home.png" alt="Studio screen with Your Impact and What You Can Make highlighted" width="300"><figcaption></figcaption></figure>
+<figure><img src="../assets/ios-app/studio/studio-home.png" alt="Studio screen with the intro, Links, Tappables, and Mixtapes highlighted" width="300"><figcaption></figcaption></figure>
 
-1. **Your Impact**: how many times people tapped your products, how many claims you've had, and the points you've given out.
-2. **What You Can Make**: ideas to get started.
+1. **Make Anything Tappable**: a quick reminder of how it works. Add a product, attach tappables, and fans can tap to claim it.
+2. **Links**: your Lollipop Links. Tap one to see its stats or edit it.
+3. **Tappables**: the tags, cards, and stickers you own.
+4. **Mixtapes**: the mixtapes you've made. [Learn more](mixtapes.md)
 
-## What you can make
+Tap **Add** in any row to make something new.
 
-<figure><img src="../assets/ios-app/studio/studio-make.png" alt="The four What You Can Make cards" width="300"><figcaption></figcaption></figure>
-
-1. **Make Your Merch Tappable**: add a product, then attach tappables so fans can tap it.
-2. **Get Tappables**: order tags, cards, and stickers, shipped to your door.
-3. **Turn a Playlist into a Drop**: build a mixtape fans can claim from your merch. [Learn more](mixtapes.md)
-4. **Add Another Link**: start a new Lollipop Link for a new project. Each link gets its own products, rewards, and stats.
-
-## Your stuff
-
-Scroll down to see everything you've made.
-
-<figure><img src="../assets/ios-app/studio/studio-inventory.png" alt="Links, Tappables, and Mixtapes rows in Studio" width="300"><figcaption></figcaption></figure>
-
-1. **Links**: your Lollipop Links. Tap one to edit it.
-2. **Tappables**: tags, cards, and stickers you own.
-3. **Mixtapes**: mixtapes you've made.
-
-Tap **Add** in any row to make a new one.
+> Tip: Once people start tapping your products, the top of Studio shows **Your Impact**: product taps, claims, and points given.
 
 > Tip: Free accounts get a few free creations. Studio shows how many you have left, like **Free — 4 creations left**.
 
 ## Make a mixtape
 
-1. Tap **Turn a Playlist into a Drop**.
+1. In **Mixtapes**, tap **Add**.
 2. Give your mixtape a name.
 3. Search for songs and add them.
 4. Pick a player style.
@@ -48,8 +33,8 @@ Tap **Add** in any row to make a new one.
 1. **Mixtape Title**: what fans will see.
 2. **Tracks**: search for songs from YouTube, Spotify, SoundCloud, Apple Music, Bandcamp, or your own site.
 3. **Player Skin**: choose **Pop Amp**, **Cassette**, or **Minimal**.
-4. **Publish**: make it live.
+4. **Publish**: turns on once you've added a track.
 
 > Important: Only add music and videos you own, made, licensed, or have permission to share.
 
-To close the builder without publishing, tap the arrow in the top-left corner.
+To close the builder, tap the arrow in the top-left corner.
