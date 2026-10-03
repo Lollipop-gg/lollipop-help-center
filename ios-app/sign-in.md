@@ -1,52 +1,42 @@
 # Sign In
 
-The Lollipop iOS app does not use a typical email-and-password sign-in screen. Instead, you create or recover your account once, then unlock it on your device when needed.
+Lollipop doesn't use an email and password. Your account lives on your iPhone, and your **recovery phrase** is how you bring it to a new phone.
 
-## If you are new to Lollipop
+## Sign in on a new iPhone
 
-1. Open the app.
-2. Tap **Create a new account**.
-3. Wait for **Account Created**.
-4. Reveal and save your secret recovery phrase.
-5. Confirm that you wrote it down.
-6. Tap **Continue**.
+You'll need your recovery phrase.
 
-## If you already have a Lollipop account
-
-1. Open the app.
-2. Tap **I already have an account**.
-3. Enter your recovery phrase.
+1. Open Lollipop.
+2. On the welcome screen, tap **Already Collecting**.
+3. Type or paste your recovery phrase into the box.
 4. Tap **Continue**.
 
-<figure><img src="../.gitbook/assets/Screenshot 2026-05-09 at 4.09.38 PM (1).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../assets/ios-app/sign-in/recover-account.png" alt="Recover Account screen with the recovery phrase box and Continue button highlighted" width="300"><figcaption></figcaption></figure>
 
-## Why the app may ask you to approve something
+1. **Recovery phrase**: type the words in order, with a space between each one.
+2. **Continue**: signs you in.
 
-Some actions require extra confirmation from your account. For example, you may see:
+> Warning: Never share your recovery phrase with anyone. Lollipop will never ask for it.
 
-* **Log In to Claim**
-* **Create Account to Claim**
-* **Approve Claim**
-* **Approve Profile Update**
+## Unlock the app
 
-<figure><img src="../.gitbook/assets/Screenshot 2026-05-08 at 8.05.54 PM.png" alt="" width="180"><figcaption></figcaption></figure>
+If you turned on **Passcode Lock**, Lollipop asks for your passcode when you come back after a while.
 
-This is the app confirming that the action is really coming from a device you control.
+* Enter your **6-digit passcode**, or
+* Tap **Unlock with Face ID**.
 
-> Important: Only approve actions you recognize.
+You won't be asked every time you open the app, only after you've been away for a bit.
 
-> Tip: You do not need to understand the technical signing process to use the app. Just read the action title carefully and only continue when it matches what you were trying to do.
+## Sign out
 
-## If sign-in does not work
+1. Tap the **profile button** in the top-right corner of the home screen.
+2. Open **Security & Privacy**.
+3. Tap **Log Out**.
 
-1. Make sure you are using the right recovery phrase or the right device passcode.
-2. Check your internet connection.
-3. Close and reopen the app, then try again.
-4. If you were trying to claim something, open the app first and then retry the tap.
-5. If you are on the wrong saved account, sign out from **Profile** and recover the correct account again.
+> Warning: Save your recovery phrase before you sign out. Without it, you can't get back into your account.
 
-## Common messages
+## If you can't sign in
 
-* **Incorrect passcode.** The passcode entered on **Unlock your authenticator** did not match this device.
-* **Enter your recovery phrase to continue.** The recovery phrase field is empty.
-* **Log In to Claim** or **Create Account to Claim**. The item can only be claimed after you sign in or create an account.
+* **Check your recovery phrase.** Make sure every word is spelled right and in the right order.
+* **Forgot your passcode?** Try **Unlock with Face ID**. If that doesn't work, contact Lollipop support.
+* **Lost your recovery phrase?** If you're still signed in on another phone, open **Settings** > **Security & Privacy** > **View Recovery Phrase** there.

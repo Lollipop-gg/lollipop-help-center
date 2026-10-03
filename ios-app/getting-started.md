@@ -1,55 +1,61 @@
 # Getting Started
 
-The Lollipop iOS app is where you use your Lollipop account on iPhone. It can help you open claim flows from tappable products, collect eligible items and rewards, manage your public profile, and check your collection.
+Set up Lollipop on your iPhone in about a minute.
 
-## Before you start
+## What you need
 
-* An iPhone with the Lollipop app installed
+* An iPhone
+* The **Lollipop** app from the App Store
 * An internet connection
-* Your Lollipop account, or enough time to create or recover one
-* A Lollipop-enabled product, card, or tag if you want to claim something
 
-> Tip: Some actions only work after you sign in or unlock your account.
+## 1. Claim your link
 
-## Open the app
+When you open Lollipop for the first time, you'll pick your own link, like `lollipop.gg/yourname`.
 
-1. Find **Lollipop** on your iPhone.
-2. Tap the app to open it.
-3. If you already have an account on this device, the app may open straight to **Unlock your authenticator** or your home screen.
-4. If this is your first time, the welcome screen shows **Create a new account** and **I already have an account**.
+<figure><img src="../assets/ios-app/getting-started/welcome.png" alt="Welcome screen with the name field, Claim Your Link button, and Already Collecting highlighted" width="300"><figcaption></figcaption></figure>
 
-\[Screenshot needed: iOS welcome screen with Create a new account and I already have an account]
+1. Tap the box and type the name you want.
+2. When the button turns green and says **Claim Link**, tap it.
+3. Already have a Lollipop account? Tap **Already Collecting** instead. [See how to sign in](sign-in.md)
 
-## What new users should do first
+The button tells you if your name is free:
 
-1. Tap **Create a new account** if you are new to Lollipop.
-2. When the app shows **Account Created**, reveal your secret recovery phrase.
-3. Save the recovery phrase somewhere private before you continue.
-4. Turn on the confirmation checkbox, then tap **Continue**.
-5. Wait for the home screen to load.
-6. Tap the profile button in the top-right corner when you are ready to check your profile and Lollipop Link.
+<figure><img src="../assets/ios-app/getting-started/welcome-available.png" alt="Green Claim Link button" width="300"><figcaption><p>Green <strong>Claim Link</strong>: the name is free.</p></figcaption></figure>
 
-> Warning: Your secret recovery phrase is the only way to restore your account later. Do not skip saving it.
+<figure><img src="../assets/ios-app/getting-started/welcome-taken.png" alt="Red Already Claimed button" width="300"><figcaption><p>Red <strong>Already Claimed</strong>: someone has it. Try another name.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Screenshot 2026-05-09 at 4.08.22 PM.png" alt="" width="188"><figcaption></figcaption></figure>
+> Tip: Names can use letters, numbers, and dashes.
 
+## 2. Create a passcode
 
+After your account is created, the app asks you to create a **6-digit passcode**.
 
-## What existing users should do first
+1. Type 6 digits.
+2. Type them again to confirm.
 
-1. Tap **I already have an account** if you need to restore an account with your recovery phrase.
-2. Enter your recovery phrase and tap **Continue**.
-3. If your account is already stored on this device, enter your passcode on **Unlock your authenticator** instead.
-4. After the app opens, review your profile, points, and collection.
+The passcode keeps your account safe if you leave the app for a while. You can also unlock with **Face ID**.
 
-<figure><img src="../.gitbook/assets/Screenshot 2026-05-09 at 4.09.38 PM.png" alt="" width="188"><figcaption></figcaption></figure>
+> Tip: Not ready? Tap **Skip**. You can turn on a passcode later in **Settings** > **Security & Privacy**.
 
-## What you will see on the home screen
+## 3. Save your recovery phrase
 
-The signed-in home screen centers around your Lollipop points card and your collected brand or product cards.
+Your recovery phrase is the only way to get your account back if you lose your phone. Save it now.
 
-* The points card shows your current point balance.
-* Brand and product cards show items in your collection.
-* The profile button in the top-right corner opens **Profile**.
+1. Tap the **profile button** in the top-right corner of the home screen.
+2. Open **Security & Privacy**.
+3. Tap **View Recovery Phrase** and write the words down somewhere safe.
 
-\[Screenshot needed: signed-in iOS home screen with points card, collection cards, and profile button]
+[Learn more about keeping your account safe](security-privacy.md)
+
+## 4. Finish your profile
+
+Your collection starts with a **Complete Your Profile** card. Tap it to add a photo, header image, and name.
+
+<figure><img src="../assets/ios-app/getting-started/complete-profile.png" alt="Complete Your Profile card" width="300"><figcaption></figcaption></figure>
+
+[See how to edit your profile](create-edit-profile.md)
+
+## Next steps
+
+* [Get around the app](navigate-the-app.md)
+* [Claim your first product](claim-products-rewards.md)
