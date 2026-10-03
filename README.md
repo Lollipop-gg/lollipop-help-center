@@ -7,7 +7,8 @@ Welcome to the Lollipop Help Center. This documentation helps users set up and u
 - How to create, recover, unlock, and manage your Lollipop Authenticator account
 - How to connect your Authenticator to Lollipop pages
 - How to approve or reject sign-in and signing requests
-- Placeholder sections for Desktop Dashboard, iOS, Android, and future Chrome Extension documentation
+- How to use the Lollipop iPhone app: claim products, earn points, shop, make mixtapes, and manage your Lollipop Link
+- Placeholder sections for Desktop Dashboard and Android
 
 ## Search
 
@@ -15,4 +16,4 @@ GitBook provides built-in search after this repository is imported and published
 
 ## Documentation status
 
-The Lollipop Authenticator for Chrome section is the first completed section. Other sections are intentionally visible as placeholders so they can be completed one at a time.
+The **iOS App** (version 1.0.3) and **Lollipop Authenticator for Chrome** sections are complete. Desktop Dashboard and Android are still placeholders and will be completed one at a time.
