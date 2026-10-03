@@ -34,7 +34,7 @@ The **Edit Account** screen opens.
 
 Your public page opens.
 
-<figure><img src="../assets/ios-app/profile/public-profile.png" alt="Public Lollipop profile page" width="300"><figcaption></figcaption></figure>
+<figure><img src="../assets/ios-app/profile/public-profile.png" alt="Public Lollipop profile page" width="300"><figcaption><p>Example: the Lollipop profile.</p></figcaption></figure>
 
 Tap **X** to close it.
 

@@ -2,6 +2,27 @@
 
 A **mixtape** is a playlist you can tap. Fans tap a card, tag, or piece of merch to open your mixtape and save it to their Lollipop.
 
+## Claim a mixtape
+
+1. Tap the mixtape card or tag with the top of your iPhone.
+2. Lollipop opens the mixtape.
+3. Tap **Save Mixtape**.
+4. Tap **Approve Claim** when asked.
+
+[Screenshot needed: mixtapes/garage-claim.png — the claim screen for Garage Mixtape after tapping its tag, showing the cassette and the "Save Mixtape" button.]
+
+When it's saved, tap **Play Mixtape** to listen.
+
+[Screenshot needed: mixtapes/garage-saved.png — the success screen for Garage Mixtape showing "Play Mixtape".]
+
+Your mixtape now lives in your collection.
+
+> Tip: Already saved it? You'll see **You've already saved this mixtape to your Lollipop collection.**
+
+## Make your own mixtape
+
+Creators can turn any playlist into a mixtape fans can tap. The rest of this page is for creators.
+
 ## See your mixtape
 
 1. Tap the **points card** on the home screen.

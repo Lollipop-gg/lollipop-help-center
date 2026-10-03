@@ -1,68 +1,83 @@
 # Claim Products and Rewards
 
-When you tap a Lollipop-enabled product, card, or tag, the iPhone app can open a claim flow. That flow helps you save the verified item to your account and, when available, add reward points too.
+Lollipop products have a tag built in. Tap it with your iPhone to claim the product, add it to your collection, and earn points.
 
-## What usually happens after a tap
+## Before you start
 
-1. Tap the Lollipop-enabled product, card, or tag with your iPhone.
-2. The app opens a claim drawer.
-3. The app loads a preview of the item.
-4. If the item includes points, the preview may show the points amount.
-5. If you are not signed in, the app shows **Log In to Claim** or **Create Account to Claim**.
+* Have the Lollipop app on your iPhone.
+* Find the Lollipop tag on the product. It's often on a label, sticker, or card.
 
+## 1. Tap the tag
 
+1. Unlock your iPhone.
+2. Hold the **top of your iPhone** close to the Lollipop tag for a second or two.
+3. Lollipop opens and checks the tag.
 
-<figure><img src="../.gitbook/assets/IMG_2148.jpg" alt="" width="188"><figcaption></figcaption></figure>
+[Screenshot needed: claims/claim-checking.png — Lollipop open right after tapping the Lollipop T-shirt tag, showing "Checking this tag…" or "You tapped a verified product."]
 
-## Claim an item or reward
+> Tip: Nothing happening? Move your phone slowly over the tag. The reader is at the top edge of your iPhone.
 
-1. Open the claim preview.
-2. Sign in, recover, or unlock your account if the app asks you to.
-3. Tap the claim button shown on screen.
-4. If **Approve Claim** appears, read it carefully and approve only if the request matches what you just tapped.
-5. Wait for the success screen.
-6. Tap **View Item** to open the item in your collection.
+## 2. Check what you're claiming
 
-> Important: Only approve a claim you expected. If the request looks unfamiliar, stop and do not approve it.
+The claim screen slides up and shows the product.
 
-<figure><img src="../.gitbook/assets/Screenshot 2026-05-09 at 6.21.55 PM.png" alt="" width="272"><figcaption></figcaption></figure>
+[Screenshot needed: claims/claim-preview.png — claim screen for the Lollipop T-shirt before claiming: product photo and name, reward points (if any), and the main button ("Claim Gear" or "Claim +25").]
 
-\[Screenshot needed: claim approval or loading state that leads into Approve Claim]
+1. **The product**: make sure it's the one you tapped.
+2. **Reward points**: points you'll earn, if the product has them.
+3. **Claim button**: tap it to claim.
 
-## If the claim succeeds
+The button changes with what you tapped:
 
-After a successful claim:
+* **Claim Gear**: a product, like a T-shirt.
+* **Claim +25** (or another number): a product that gives points.
+* **Save Mixtape**: a mixtape. [Learn more](mixtapes.md)
 
-* The item is added to your collection.
-* Any awarded points can be added to your account.
-* **View Item** opens the claimed item from the home collection view.
+> Tip: Just looking? Tap **Continue without Claim** to skip it.
 
+## 3. Approve the claim
 
+Lollipop asks you to approve the claim. This proves the tap came from your phone.
 
-<figure><img src="../.gitbook/assets/Screenshot 2026-05-09 at 6.20.40 PM.png" alt="" width="270"><figcaption></figcaption></figure>
+1. Read what you're approving.
+2. Tap **Approve Claim**.
 
-## If the item was already claimed
+[Screenshot needed: claims/claim-approve.png — the "Approve Claim" step for the Lollipop T-shirt, with the Approve Claim button visible.]
 
-The app can show **Already Claimed** with a message that the item has already been added to a Lollipop account.
+> Important: Only approve a claim for something you just tapped.
 
-* You will not be able to claim the same item again to the same or another account through this flow.
-* Tap **Done** to close the message.
+## 4. You're done
 
-<figure><img src="../.gitbook/assets/Screenshot 2026-05-09 at 6.19.50 PM.png" alt="" width="273"><figcaption></figcaption></figure>
+When the claim finishes, you'll see a success screen.
 
-## If a claim fails
+[Screenshot needed: claims/claim-success.png — success screen after claiming the Lollipop T-shirt, showing the claimed item and the "View in My Wallet" button.]
 
-1. Tap **Try Again** if the app offers it.
-2. If the message says the claim expired, tap the physical item again to start a fresh claim.
-3. Make sure you are on the correct account before retrying.
-4. Check your internet connection.
-5. Reopen the app and tap the item again if needed.
+Tap **View in My Wallet** to see the item in your collection. Any points are added to your balance right away.
 
-The app can show messages such as:
+## Not signed in yet?
 
-* **This claim expired**
-* **We couldn’t load this claim**
-* **Approval failed**
-* **This item has already been added to a Lollipop account.**
+If you tap a product before you have an account, the claim screen shows **Save to Lollipop** and **Log In**.
 
-<figure><img src="../.gitbook/assets/Screenshot 2026-05-09 at 6.17.55 PM.png" alt="" width="272"><figcaption></figcaption></figure>
+1. Tap **Log In**, or create your account on the welcome screen. [See Getting Started](getting-started.md)
+2. Your claim waits for you. It picks up again as soon as you're signed in.
+
+## If something goes wrong
+
+**Already in Your Collection**
+You've already claimed this item. Find it in your collection.
+
+**Already Claimed**
+Someone else has already added this item to their Lollipop. It can't be claimed again.
+
+[Screenshot needed: claims/claim-already-claimed.png — what you see when tapping the Lollipop T-shirt tag again after it's already been claimed ("Already in Your Collection").]
+
+**This claim expired**
+Claims only last a short time. Tap the tag again to start a new one.
+
+**Couldn't read this tag**
+Hold your phone still over the tag and try again.
+
+**Approval failed**
+Tap **Try Again**. If it keeps happening, check your internet connection.
+
+Still stuck? See [Troubleshooting](troubleshooting.md).
