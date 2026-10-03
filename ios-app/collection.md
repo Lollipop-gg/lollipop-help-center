@@ -31,6 +31,10 @@ Each card is one brand. It shows how many items you've collected from them.
 
 New accounts also see a few helper cards in the stack, like **Complete Your Profile** and **Lollipop NFC Cards**. Tap one to open it.
 
+<figure><img src="../assets/ios-app/cards-tags/nfc-card.png" alt="Lollipop NFC Cards helper card with Get a Tappable Card highlighted" width="300"><figcaption></figcaption></figure>
+
+The **Lollipop NFC Cards** card is where your tappable card will live once you activate one. Tap **Get a Tappable Card** to order one.
+
 To remove a helper card, open it and press and hold **Hold to Dismiss**.
 
 ## Refresh your collection
