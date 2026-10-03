@@ -1,47 +1,57 @@
 # Manage Your Lollipop Link
 
-Your **Lollipop Link** is your public Lollipop page, such as `https://lollipop.gg/your-link`.
+Your **Lollipop Link** is your own page, like `lollipop.gg/yourname`. Share it anywhere, and anyone can open it without the app.
 
-## Where to find it
+## Copy your link
 
-1. Open the app.
-2. Tap the profile button in the top-right corner.
-3. Open **Profile**.
-4. Look for the **Link** section.
+1. Tap the **profile button** in the top-right corner of the home screen.
+2. Tap the **copy button** next to your link.
 
-If you only have one link, the app shows it as a copyable row. If you have more than one, the app can show a link picker while you are editing.
+<figure><img src="../assets/ios-app/link/copy-link.png" alt="Your Lollipop Link with the copy button highlighted" width="300"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Screenshot 2026-05-09 at 4.14.31 PM.png" alt="" width="375"><figcaption></figcaption></figure>
+> Tip: Paste your link into your Instagram or TikTok bio so people can find your Lollipop.
 
+## See how your link is doing
 
+1. Tap the **points card** on the home screen.
+2. Under **Links**, tap your link.
 
-## Change which Lollipop Link is active
+<figure><img src="../assets/ios-app/link/link-detail.png" alt="Link details with the stats row and Edit button highlighted" width="300"><figcaption></figcaption></figure>
 
-1. Open **Profile**.
-2. Tap **Edit**.
-3. Open the **Link** picker if it appears.
-4. Choose the Lollipop Link you want to use.
-5. If you also changed profile details, tap **Publish Changes** and approve the update.
+1. **Views, Visitors, and Clicks** for your link.
+2. **Edit**: opens the link editor.
 
-## Check the public version
+Scroll down to see more.
 
-1. Open **Profile**.
-2. Tap **Preview Profile**.
-3. Review the public page that opens.
+<figure><img src="../assets/ios-app/link/link-stats.png" alt="Views chart, Geo Pulse map, Edit Link, and View Link highlighted" width="300"><figcaption></figcaption></figure>
 
-## What happens after saving
+1. **Views**: how many people opened your link. Tap **7D**, **4W**, **3M**, or **1Y** to change the time range.
+2. **Geo Pulse**: where people are tapping. The map lights up as taps come in.
+3. **Edit Link**: change what's on your page.
+4. **View Link**: see your page the way everyone else does.
 
-After your update finishes:
+## Edit your link
 
-* Your selected Lollipop Link stays connected to your profile.
-* Your public page uses the latest published profile details.
-* If you only changed the selected link, the app may update it without a full profile publish.
+1. Tap **Edit Link**.
+2. Tap a section to open it, like **Header** or **List of Links**.
+3. Make your changes.
+4. Tap **Publish Lollipop Link** to make them live.
 
-> Tip: If the app still shows the older public page, wait a moment and then reopen the preview.
+<figure><img src="../assets/ios-app/link/link-editor.png" alt="Link editor with the sections, Publish button, and close button highlighted" width="300"><figcaption></figcaption></figure>
 
-## If your link does not look right
+1. **Sections**: everything on your page. Tap **Add Section** to add more.
+2. **Publish Lollipop Link**: nothing goes live until you tap this.
+3. **Close**: leave the editor. Your changes are saved as a draft for later.
 
-1. Check whether you still have unpublished changes.
-2. Use **Preview Profile** to confirm what is live now.
-3. If you switched links, reopen **Profile** and make sure the correct link is selected.
-4. Publish again if the app still shows **UNPUBLISHED**.
+> Tip: Swipe left to preview your page as you edit. Swipe right to go back to editing.
+
+> Tip: Changed your mind? Tap **Revert to published version** to throw away your unpublished changes.
+
+## Add another link
+
+You can have more than one Lollipop Link, like one for each project.
+
+1. Open **Studio**.
+2. Under **Links**, tap **Add**.
+
+Each link gets its own products, rewards, and stats.
